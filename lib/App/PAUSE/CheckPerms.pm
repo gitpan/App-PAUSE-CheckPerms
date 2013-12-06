@@ -1,6 +1,6 @@
 package App::PAUSE::CheckPerms;
 {
-  $App::PAUSE::CheckPerms::VERSION = '0.01';
+  $App::PAUSE::CheckPerms::VERSION = '0.02';
 }
 
 use Moo;
@@ -148,7 +148,8 @@ Feel free to suggest better ways to do this.
 
 =head1 SEE ALSO
 
-L<pause-checkperms>, L<PAUSE::Permissions>, L<PAUSE::Packages>.
+L<pause-checkperms>, L<PAUSE::Permissions>, L<PAUSE::Packages>,
+L<App::PAUSE::Comaint>.
 
 =head1 REPOSITORY
 

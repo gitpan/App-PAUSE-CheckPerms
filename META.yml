@@ -23,4 +23,4 @@ requires:
 resources:
   homepage: https://github.com/neilbowers/App-PAUSE-CheckPerms
   repository: https://github.com/neilbowers/App-PAUSE-CheckPerms.git
-version: 0.01
+version: 0.02
