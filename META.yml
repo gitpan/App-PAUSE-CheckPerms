@@ -7,7 +7,7 @@ build_requires:
 configure_requires:
   ExtUtils::MakeMaker: 6.30
 dynamic_config: 0
-generated_by: 'Dist::Zilla version 5.006, CPAN::Meta::Converter version 2.132830'
+generated_by: 'Dist::Zilla version 5.006, CPAN::Meta::Converter version 2.133380'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -18,9 +18,10 @@ requires:
   MooX::Options: 0
   PAUSE::Packages: 0.02
   PAUSE::Permissions: 0.06
+  perl: 5.010
   strict: 0
   warnings: 0
 resources:
   homepage: https://github.com/neilbowers/App-PAUSE-CheckPerms
   repository: https://github.com/neilbowers/App-PAUSE-CheckPerms.git
-version: 0.02
+version: 0.03

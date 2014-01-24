@@ -1,8 +1,8 @@
 package App::PAUSE::CheckPerms;
 {
-  $App::PAUSE::CheckPerms::VERSION = '0.02';
+  $App::PAUSE::CheckPerms::VERSION = '0.03';
 }
-
+use 5.010;
 use Moo;
 use MooX::Options;
 
